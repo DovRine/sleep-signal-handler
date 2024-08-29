@@ -1,0 +1,6 @@
+# Run Tests
+# ================
+
+```
+$ lua test_handle_sleep_signal.lua
+```
